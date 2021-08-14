@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shivam-singh-2001)]
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shivam-singh-2001)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
