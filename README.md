@@ -1,6 +1,6 @@
 ### Hello I am Shivam Singh 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shivam-singh-2001/)](www.linkedin.com/in/shivam-singh-2001/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-singh-2001/)](https://www.linkedin.com/in/shivam-singh-2001/)
 
 I'm
 Full Stack Solution Architect
